@@ -74,7 +74,7 @@ I’m **Khrstff**, a creative software developer passionate about **transforming
 
 ---
 
-> **"Code is like poetry; it has to flow effortlessly."**
+> **"Prog-Metal and programming, beautiful combination."**
 
 ---
 
