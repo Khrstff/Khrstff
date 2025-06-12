@@ -21,7 +21,6 @@ I'm a passionate **Data Engineer** with experience in real-time data pipelines, 
   *Python · PostgreSQL · Streamlit · Docker · CoinGecko API*  
   👉 [View project](https://github.com/Khrstff/crypto-stream)
 
-- *(Add more projects here as you publish them)*
 
 ---
 
@@ -37,7 +36,7 @@ I'm a passionate **Data Engineer** with experience in real-time data pipelines, 
 
 - 📧 Email: danielaj1909@gmail.com  
 - 💼 LinkedIn: www.linkedin.com/in/daniel-khristoff-aguilar-jiménez-2218b4332  
-- 📂 GitHub: [github.com/your-username](https://github.com/Khrstff)
+- 📂 GitHub: (https://github.com/Khrstff)
 
 ---
 
