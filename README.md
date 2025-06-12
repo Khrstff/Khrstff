@@ -19,7 +19,7 @@ I'm a passionate **Data Engineer** with experience in real-time data pipelines, 
 
 - **CryptoStream** – Real-time data pipeline for cryptocurrency prices  
   *Python · PostgreSQL · Streamlit · Docker · CoinGecko API*  
-  👉 [View project](https://github.com/Khrstff/crypto-stream)
+  👉 [View project](https://github.com/Khrstff/CryptoStream)
 
 
 ---
