@@ -21,6 +21,10 @@ I'm a passionate **Data Engineer** with experience in real-time data pipelines, 
   *Python · PostgreSQL · Streamlit · Docker · CoinGecko API*  
   👉 [View project](https://github.com/Khrstff/CryptoStream)
 
+- **House Price Predictor** – Interactive app to estimate house values from California census data  
+  *Python · Scikit-learn · Streamlit · Pandas*  
+  👉 [View project](https://github.com/Khrstff/House_price_prediction)
+
 
 ---
 
