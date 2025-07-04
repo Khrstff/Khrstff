@@ -11,7 +11,7 @@ I'm a passionate **Data Engineer** with experience in real-time data pipelines, 
 - 🧰 Data Pipelines (Airflow, Prefect, cron, ETL)
 - 📦 Docker, Docker Compose
 - 📊 Streamlit for real-time dashboards
-- ☁️ Basic experience with Google Cloud Platform (GCP)
+- ☁️ Experience with Google Cloud Platform (GCP)
 
 ---
 
