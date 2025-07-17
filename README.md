@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Daniel Khristoff Aguilar Jiménez
 
-I'm a passionate **Data Engineer** with experience in real-time data pipelines, cloud infrastructure, and data automation using modern tools like Python, SQL, PostgreSQL, Docker, and Streamlit. I build robust, scalable systems that transform data into value.
+I'm a passionate **Data Entusiast** with experience in real-time data pipelines, cloud infrastructure, and data automation using modern tools like Python, SQL, PostgreSQL, Docker, and Streamlit. I build robust, scalable systems that transform data into value.
 
 ---
 
